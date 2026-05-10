@@ -1,0 +1,74 @@
+{
+  "Jayson Tatum": {
+    "id": "1628369",
+    "position": "SF",
+    "avg_minutes": 36.5,
+    "avg_fouls": 2.1,
+    "fatigue_threshold_stint": 8,
+    "fatigue_threshold_total": 32,
+    "foul_out_risk_threshold": 4
+  },
+  "Jaylen Brown": {
+    "id": "1627759",
+    "position": "SG",
+    "avg_minutes": 34.8,
+    "avg_fouls": 2.4,
+    "fatigue_threshold_stint": 8,
+    "fatigue_threshold_total": 30,
+    "foul_out_risk_threshold": 4
+  },
+  "Kristaps Porzingis": {
+    "id": "1641785",
+    "position": "C",
+    "avg_minutes": 28.3,
+    "avg_fouls": 2.8,
+    "fatigue_threshold_stint": 6,
+    "fatigue_threshold_total": 25,
+    "foul_out_risk_threshold": 3
+  },
+  "Al Horford": {
+    "id": "1628389",
+    "position": "PF",
+    "avg_minutes": 29.1,
+    "avg_fouls": 1.9,
+    "fatigue_threshold_stint": 7,
+    "fatigue_threshold_total": 26,
+    "foul_out_risk_threshold": 4
+  },
+  "Payton Pritchard": {
+    "id": "1629684",
+    "position": "PG",
+    "avg_minutes": 26.4,
+    "avg_fouls": 1.6,
+    "fatigue_threshold_stint": 9,
+    "fatigue_threshold_total": 28,
+    "foul_out_risk_threshold": 4
+  },
+  "Jrue Holiday": {
+    "id": "1629056",
+    "position": "PG",
+    "avg_minutes": 31.2,
+    "avg_fouls": 2.0,
+    "fatigue_threshold_stint": 8,
+    "fatigue_threshold_total": 28,
+    "foul_out_risk_threshold": 4
+  },
+  "Sam Hauser": {
+    "id": "1629654",
+    "position": "SF",
+    "avg_minutes": 24.7,
+    "avg_fouls": 1.4,
+    "fatigue_threshold_stint": 9,
+    "fatigue_threshold_total": 26,
+    "foul_out_risk_threshold": 4
+  },
+  "Derrick White": {
+    "id": "1628401",
+    "position": "SG",
+    "avg_minutes": 33.0,
+    "avg_fouls": 2.1,
+    "fatigue_threshold_stint": 8,
+    "fatigue_threshold_total": 30,
+    "foul_out_risk_threshold": 4
+  }
+}

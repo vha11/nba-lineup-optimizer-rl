@@ -1,0 +1,561 @@
+[
+  {
+    "id": "L00",
+    "players": [
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Derrick White"
+    ],
+    "mu": 0.0,
+    "sigma": 6.0,
+    "minutes": 357.0
+  },
+  {
+    "id": "L01",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Derrick White"
+    ],
+    "mu": 17.7,
+    "sigma": 6.0,
+    "minutes": 268.0
+  },
+  {
+    "id": "L02",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Derrick White"
+    ],
+    "mu": 11.4,
+    "sigma": 6.0,
+    "minutes": 77.0
+  },
+  {
+    "id": "L03",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jayson Tatum",
+      "Derrick White"
+    ],
+    "mu": 8.0,
+    "sigma": 6.0,
+    "minutes": 56.0
+  },
+  {
+    "id": "L04",
+    "players": [
+      "Al Horford",
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Derrick White",
+      "Sam Hauser"
+    ],
+    "mu": 29.9,
+    "sigma": 6.0,
+    "minutes": 49.0
+  },
+  {
+    "id": "L05",
+    "players": [
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Derrick White",
+      "Payton Pritchard"
+    ],
+    "mu": 15.2,
+    "sigma": 6.0,
+    "minutes": 43.0
+  },
+  {
+    "id": "L06",
+    "players": [
+      "Al Horford",
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Derrick White",
+      "Payton Pritchard"
+    ],
+    "mu": 32.9,
+    "sigma": 6.0,
+    "minutes": 41.0
+  },
+  {
+    "id": "L07",
+    "players": [
+      "Al Horford",
+      "Jayson Tatum",
+      "Derrick White",
+      "Payton Pritchard",
+      "Sam Hauser"
+    ],
+    "mu": -9.6,
+    "sigma": 6.0,
+    "minutes": 38.0
+  },
+  {
+    "id": "L08",
+    "players": [
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Payton Pritchard"
+    ],
+    "mu": 14.6,
+    "sigma": 6.0,
+    "minutes": 38.0
+  },
+  {
+    "id": "L09",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Jayson Tatum"
+    ],
+    "mu": 10.1,
+    "sigma": 6.0,
+    "minutes": 36.0
+  },
+  {
+    "id": "L10",
+    "players": [
+      "Al Horford",
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Derrick White"
+    ],
+    "mu": -9.4,
+    "sigma": 6.0,
+    "minutes": 36.0
+  },
+  {
+    "id": "L11",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Jayson Tatum",
+      "Derrick White",
+      "Payton Pritchard"
+    ],
+    "mu": -10.2,
+    "sigma": 6.0,
+    "minutes": 35.0
+  },
+  {
+    "id": "L12",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Jayson Tatum",
+      "Payton Pritchard",
+      "Sam Hauser"
+    ],
+    "mu": 10.2,
+    "sigma": 6.0,
+    "minutes": 31.0
+  },
+  {
+    "id": "L13",
+    "players": [
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Derrick White",
+      "Payton Pritchard",
+      "Sam Hauser"
+    ],
+    "mu": -10.2,
+    "sigma": 6.0,
+    "minutes": 30.0
+  },
+  {
+    "id": "L14",
+    "players": [
+      "Al Horford",
+      "Kristaps Porzingis",
+      "Derrick White",
+      "Payton Pritchard",
+      "Sam Hauser"
+    ],
+    "mu": 14.7,
+    "sigma": 6.0,
+    "minutes": 29.0
+  },
+  {
+    "id": "L15",
+    "players": [
+      "Al Horford",
+      "Kristaps Porzingis",
+      "Jayson Tatum",
+      "Derrick White",
+      "Payton Pritchard"
+    ],
+    "mu": -1.7,
+    "sigma": 6.0,
+    "minutes": 29.0
+  },
+  {
+    "id": "L16",
+    "players": [
+      "Al Horford",
+      "Jaylen Brown",
+      "Derrick White",
+      "Payton Pritchard",
+      "Sam Hauser"
+    ],
+    "mu": 20.1,
+    "sigma": 6.0,
+    "minutes": 27.0
+  },
+  {
+    "id": "L17",
+    "players": [
+      "Al Horford",
+      "Kristaps Porzingis",
+      "Jayson Tatum",
+      "Derrick White",
+      "Sam Hauser"
+    ],
+    "mu": 1.6,
+    "sigma": 6.0,
+    "minutes": 27.0
+  },
+  {
+    "id": "L18",
+    "players": [
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Derrick White",
+      "Payton Pritchard"
+    ],
+    "mu": -5.2,
+    "sigma": 6.0,
+    "minutes": 26.0
+  },
+  {
+    "id": "L19",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Jayson Tatum",
+      "Derrick White",
+      "Sam Hauser"
+    ],
+    "mu": -21.7,
+    "sigma": 6.0,
+    "minutes": 25.0
+  },
+  {
+    "id": "L20",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jayson Tatum",
+      "Payton Pritchard"
+    ],
+    "mu": 14.9,
+    "sigma": 6.0,
+    "minutes": 20.0
+  },
+  {
+    "id": "L21",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Derrick White",
+      "Payton Pritchard"
+    ],
+    "mu": -6.2,
+    "sigma": 6.0,
+    "minutes": 19.0
+  },
+  {
+    "id": "L22",
+    "players": [
+      "Al Horford",
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Derrick White",
+      "Payton Pritchard"
+    ],
+    "mu": 37.5,
+    "sigma": 6.0,
+    "minutes": 15.0
+  },
+  {
+    "id": "L23",
+    "players": [
+      "Kristaps Porzingis",
+      "Jayson Tatum",
+      "Derrick White",
+      "Payton Pritchard",
+      "Sam Hauser"
+    ],
+    "mu": -29.9,
+    "sigma": 6.0,
+    "minutes": 15.0
+  },
+  {
+    "id": "L24",
+    "players": [
+      "Al Horford",
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Derrick White",
+      "Sam Hauser"
+    ],
+    "mu": 31.3,
+    "sigma": 6.0,
+    "minutes": 14.0
+  },
+  {
+    "id": "L25",
+    "players": [
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Derrick White",
+      "Payton Pritchard",
+      "Sam Hauser"
+    ],
+    "mu": -3.6,
+    "sigma": 6.0,
+    "minutes": 14.0
+  },
+  {
+    "id": "L26",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Payton Pritchard"
+    ],
+    "mu": 28.6,
+    "sigma": 6.0,
+    "minutes": 13.0
+  },
+  {
+    "id": "L27",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Jaylen Brown",
+      "Payton Pritchard",
+      "Sam Hauser"
+    ],
+    "mu": -24.0,
+    "sigma": 6.0,
+    "minutes": 12.0
+  },
+  {
+    "id": "L28",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Derrick White",
+      "Sam Hauser"
+    ],
+    "mu": 3.8,
+    "sigma": 6.0,
+    "minutes": 12.0
+  },
+  {
+    "id": "L29",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jayson Tatum",
+      "Sam Hauser"
+    ],
+    "mu": 29.2,
+    "sigma": 6.0,
+    "minutes": 12.0
+  },
+  {
+    "id": "L30",
+    "players": [
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Sam Hauser"
+    ],
+    "mu": 0.0,
+    "sigma": 6.0,
+    "minutes": 12.0
+  },
+  {
+    "id": "L31",
+    "players": [
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Derrick White",
+      "Sam Hauser"
+    ],
+    "mu": 1.5,
+    "sigma": 6.0,
+    "minutes": 11.0
+  },
+  {
+    "id": "L32",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Jaylen Brown",
+      "Derrick White",
+      "Payton Pritchard"
+    ],
+    "mu": -18.2,
+    "sigma": 6.0,
+    "minutes": 10.0
+  },
+  {
+    "id": "L33",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Payton Pritchard"
+    ],
+    "mu": 21.4,
+    "sigma": 6.0,
+    "minutes": 10.0
+  },
+  {
+    "id": "L34",
+    "players": [
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jayson Tatum",
+      "Derrick White",
+      "Payton Pritchard"
+    ],
+    "mu": -64.1,
+    "sigma": 6.0,
+    "minutes": 10.0
+  },
+  {
+    "id": "L35",
+    "players": [
+      "Al Horford",
+      "Kristaps Porzingis",
+      "Jayson Tatum",
+      "Payton Pritchard",
+      "Sam Hauser"
+    ],
+    "mu": -5.0,
+    "sigma": 6.0,
+    "minutes": 9.0
+  },
+  {
+    "id": "L36",
+    "players": [
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jayson Tatum",
+      "Derrick White",
+      "Sam Hauser"
+    ],
+    "mu": 33.3,
+    "sigma": 6.0,
+    "minutes": 9.0
+  },
+  {
+    "id": "L37",
+    "players": [
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jayson Tatum",
+      "Payton Pritchard",
+      "Sam Hauser"
+    ],
+    "mu": -39.7,
+    "sigma": 6.0,
+    "minutes": 8.0
+  },
+  {
+    "id": "L38",
+    "players": [
+      "Al Horford",
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Payton Pritchard"
+    ],
+    "mu": -30.8,
+    "sigma": 6.0,
+    "minutes": 7.0
+  },
+  {
+    "id": "L39",
+    "players": [
+      "Al Horford",
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Payton Pritchard",
+      "Sam Hauser"
+    ],
+    "mu": 40.5,
+    "sigma": 6.0,
+    "minutes": 6.0
+  },
+  {
+    "id": "L40",
+    "players": [
+      "Al Horford",
+      "Jrue Holiday",
+      "Jaylen Brown",
+      "Derrick White",
+      "Sam Hauser"
+    ],
+    "mu": -46.2,
+    "sigma": 6.0,
+    "minutes": 6.0
+  },
+  {
+    "id": "L41",
+    "players": [
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Jaylen Brown",
+      "Payton Pritchard",
+      "Sam Hauser"
+    ],
+    "mu": 35.0,
+    "sigma": 6.0,
+    "minutes": 6.0
+  },
+  {
+    "id": "L42",
+    "players": [
+      "Jrue Holiday",
+      "Kristaps Porzingis",
+      "Derrick White",
+      "Payton Pritchard",
+      "Sam Hauser"
+    ],
+    "mu": -136.4,
+    "sigma": 6.0,
+    "minutes": 5.0
+  }
+]

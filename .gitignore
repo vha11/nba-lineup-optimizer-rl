@@ -1,0 +1,27 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training artifacts pesados (opcional)
+results/
+figures/
+
+# Modelos pesados (opcional)
+models/*.pth
+models/*.pt
+models/*.h5
+models/*.ckpt
+
+# Logs
+*.log
