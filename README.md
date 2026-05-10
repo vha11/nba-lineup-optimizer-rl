@@ -420,3 +420,9 @@ seed = 123
 ```
 
 Debido a la naturaleza estocástica del entorno, los resultados pueden variar ligeramente entre ejecuciones.
+
+---
+
+## Nota
+
+Los modelos entrenados, métricas y figuras no se incluyen en el repositorio para mantener un tamaño ligero. Todos pueden regenerarse siguiendo las instrucciones de entrenamiento y evaluación descritas en este README.
